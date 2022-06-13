@@ -1,5 +1,5 @@
-[header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20HyeonBin!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello! Beyond!%20render&fontSize=90" />
 
 <h3 align="center">👋 It's me! 👋</h3>
 <p align="center">
