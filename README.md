@@ -30,17 +30,20 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>&nbsp 
-
-  <br>
-
 </p>
-<br><br><br>
+
+<br><br>
+
+<h3 align="center">🍀 Welcome to SsookSsook 🌱</h3>
+<p align="center">
+  <a href="https://ssookssook.netlify.app"><img src="https://img.shields.io/badge/SsookSsoook-006600?style=flat-square&logo=4chan&logoColor=white&link=https://ssookssook.netlify.app"/></a>
+</p>
+
+<br>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="mailto:insideb94@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
- 
+
 
