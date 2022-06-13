@@ -36,11 +36,15 @@
 
 <h3 align="center">🍀 Welcome to SsookSsook 🌱</h3>
 <p align="center">
+  <b>가정옹 스마트 화분의 기업 페이지입니다.</b> 👩‍💻 <br>
+  <b>쑥쑥에 놀러오세요!</b> 🌿
+</p>
+<p align="center">
   <a href="https://ssookssook.netlify.app"><img src="https://img.shields.io/badge/SsookSsoook-006600?style=flat-square&logo=4chan&logoColor=white&link=https://ssookssook.netlify.app"/></a>
 </p>
 
 <br>
-<h3 align="center">🌈 Follow Me 🌈</h3>
+<h3 align="center">🌈 Contact Me 🌈</h3>
 <p align="center">
   <a href="mailto:insideb94@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
