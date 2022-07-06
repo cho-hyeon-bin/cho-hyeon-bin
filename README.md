@@ -36,7 +36,7 @@
 
 <h3 align="center">🍀 Welcome to SsookSsook 🌱</h3>
 <p align="center">
-  가정옹 스마트 화분의 기업 페이지입니다.☀️ <br>
+  가정용 스마트 화분의 기업 페이지입니다.☀️ <br>
   쑥쑥에 놀러오세요!🌱
 </p>
 <p align="center">
@@ -46,7 +46,7 @@
 <br>
 <h3 align="center">🌈 Contact Me 🌈</h3>
 <p align="center">
-  <a href="mailto:insideb94@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="mailto:insideb94@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=insideb94@gmail.com"/></a>
 </p>
 
 
