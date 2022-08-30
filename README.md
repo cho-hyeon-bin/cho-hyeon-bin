@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/bootstrap-F47C7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Photoshop-7FB5FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Illustrator-FFCD11?style=for-the-badge&logo=AdobeIllustrator&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Illustrator-FFCD11?style=for-the-badge&logo=AdobeIllustrator&logoColor=white"/></a>&nbsp
-
 </p>
 
 <br><br>
